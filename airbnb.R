@@ -1,6 +1,6 @@
 ####################################### 1. Read the File ##########################################
 # set working directory to source file location 
-setwd("~/Desktop/courses/AI/groupProject")
+
 # remove all the variables in the global environment
 rm(list = ls())
 airbnb = read.table('airbnb.csv', header = TRUE, sep = ",")
