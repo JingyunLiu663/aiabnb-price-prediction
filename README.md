@@ -1,4 +1,8 @@
-### A Price Prediction Model for Listings on Airbnb
+# A Price Prediction Model for Listings on Airbnb
+## Files in this repository 
+1. airbnb.csv: Please refer to the dataset section below for more information.
+2. airbnb.R: This is the R script file used for analysis.
+
 ## Dataset
 The data is collected from Inside Airbnb (http://insideairbnb.com/get-the-data.html) on November 5, 2019, 
 High-priced outliers are removed, and the dataset contains only properties with daily prices less than 500 pounds. 
