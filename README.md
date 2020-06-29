@@ -2,6 +2,7 @@
 ## Files in this repository 
 1. airbnb.csv: Please refer to the dataset section below for more information.
 2. airbnb.R: This is the R script file used for analysis.
+3. "London_Sport": This folder stores information for Geographic Information Visualisation.
 
 ## Dataset
 The data is collected from Inside Airbnb (http://insideairbnb.com/get-the-data.html) on November 5, 2019, 
